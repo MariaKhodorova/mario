@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://104ttdp356cv"]
+
+[ext_resource type="Texture2D" uid="uid://c6hvt060q1l7t" path="res://assets/mario.jpeg" id="1_keuod"]
+
+[node name="Mario" type="Node2D" unique_id=621630787]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=157427157]
+scale = Vector2(0.2, 0.2)
+texture = ExtResource("1_keuod")
